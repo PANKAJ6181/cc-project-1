@@ -18,9 +18,11 @@ It showcases basic details such as About Me, Skills, Experience, Projects, Educa
 
 ## Project structure
 
+```bash
 cc-project-1/
 │── index.html
 │── style.css
 │── README.md
 │── images/
 └── portfolio-screenshot.png
+```
